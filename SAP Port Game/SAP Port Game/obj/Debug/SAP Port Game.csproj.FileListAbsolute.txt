@@ -1,0 +1,11 @@
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\bin\Debug\SAP Port Game.exe.config
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\bin\Debug\SAP Port Game.exe
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\bin\Debug\SAP Port Game.pdb
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\obj\Debug\SAP Port Game.csproj.AssemblyReference.cache
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\obj\Debug\SAP Port Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\obj\Debug\SAP_Port_Game.SelectForm.resources
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\obj\Debug\SAP_Port_Game.Properties.Resources.resources
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\obj\Debug\SAP Port Game.csproj.GenerateResource.cache
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\obj\Debug\SAP Port Game.csproj.CoreCompileInputs.cache
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\obj\Debug\SAP Port Game.exe
+C:\Users\rlaql\source\repos\SAP Port Game\SAP Port Game\obj\Debug\SAP Port Game.pdb
